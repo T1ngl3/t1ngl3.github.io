@@ -7,3 +7,4 @@ travelblog with commenting function
 - Users should be able to comment
     - with a username
 - There should be tabs and all that fancy stuff
+- More recent posts should be at the top
